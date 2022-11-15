@@ -1,0 +1,30 @@
+/**umb_name:H1*/
+h1{}
+
+/**umb_name:H2*/
+h2{}
+
+/**umb_name:H3*/
+h3{}
+
+/**umb_name:H4*/
+h4{}
+
+/**umb_name:H5*/
+h5{}
+
+/**umb_name:H6*/
+h6{}
+
+/**umb_name:heading*/
+.heading{color: #3D5791;
+font-size: 20px;
+font-weight: 700;
+text-transform: uppercase;
+line-height: 26px;
+display: inline-block;}
+
+/**umb_name:heading2*/
+.heading2{color: #525252;
+font-size: 18px;
+font-weight: 700;}
