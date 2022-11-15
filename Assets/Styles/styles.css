@@ -12899,6 +12899,9 @@ form:not(.ant-form-vertical) .ant-input-group-wrapper {
             box-sizing: border-box;
     width: 54.16666667%;
   }
+  .concactlogo{
+    height: 50px;
+  }
   .ant-col-lg-push-13 {
     left: 54.16666667%;
   }
